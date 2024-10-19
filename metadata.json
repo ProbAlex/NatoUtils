@@ -1,0 +1,8 @@
+{
+    "name": "NatoUtils",
+    "description": "It moves and deviates from path when told.",
+    "version": "1.0.0",
+    "author": "leafy_alex2",
+    "entry": "index.js",
+    "requires": []
+}
